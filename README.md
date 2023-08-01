@@ -1,4 +1,4 @@
-# module_11_challenge
+# Module 11 challenge
 
 This is an exercise on web-scraping using Python's libraries Splinter, BeautifulSoup, Pandas and Matplotlib. There are two
 tasks in this exercise.
@@ -15,7 +15,7 @@ the tag 'td' to obtain the value of each column. The column headers are acquired
 data rows in list and the headers are combined to create the dataframe df. The queries are straight-forward and same as many
 other past exercises.
 
-### Answer to the questions in the Requirement section are addressed as bold in this font.
+### Answer to the questions in the Requirement section are addressed as bold as this font and can be found in the ipynb files.
 
 
 
